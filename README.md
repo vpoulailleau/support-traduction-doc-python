@@ -35,6 +35,7 @@ N'hésitez pas à ouvrir un ticket pour une remarque sur les documents.
   * Dans un Ubuntu du Windows Store : `cd /mnt/c/Users/VOTRE_LOGIN/Documents/`
   * Dans un Ubuntu normal : `cd`
 * `mkdir traduction_python_docs`
+* `cd traduction_python_docs`
 * Faire votre fork dans GitHub
 * `git clone https://github.com/VOTRE_LOGIN/python-docs-fr.git`
 * `cd python-docs-fr/`
@@ -42,4 +43,4 @@ N'hésitez pas à ouvrir un ticket pour une remarque sur les documents.
 * `git fetch upstream`
 * `make todo`
 * `source venv/bin/activate`
-* fetch + création de branche
+* fetch + création de branche, comme mentionné dans les planches
