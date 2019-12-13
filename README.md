@@ -36,7 +36,7 @@ N'hésitez pas à ouvrir un ticket pour une remarque sur les documents.
   * Dans un Ubuntu normal : `cd`
 * `mkdir traduction_python_docs`
 * `cd traduction_python_docs`
-* Faire votre fork dans GitHub
+* Faire votre fork dans GitHub, en haut de https://github.com/python/python-docs-fr
 * `git clone https://github.com/VOTRE_LOGIN/python-docs-fr.git`
 * `cd python-docs-fr/`
 * `git remote add upstream https://github.com/python/python-docs-fr.git`
