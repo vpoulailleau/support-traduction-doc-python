@@ -5,7 +5,7 @@ Python en français.
 
 ## Licence
 
-CC BY-NC-SA : https://creativecommons.org/licenses/by-nc-sa/2.0/
+CC BY-NC-SA : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Oui, c'est une licence non libre !
 
