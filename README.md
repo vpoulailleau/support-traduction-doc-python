@@ -24,7 +24,7 @@ N'hésitez pas à ouvrir un ticket pour une remarque sur les documents.
 * `sudo apt update`
 * `sudo apt upgrade`
   * Quand il demande `configuring libssl1.1` : sélectionnez `yes` si vous ne savez pas quoi répondre
-* `sudo apt install git make python3.8 python3.8-venv python3.8-dev build-essential`
+* `sudo apt install git make python3.8 python3.8-venv python3.8-dev build-essential hunspell hunspell-fr-comprehensive`
 * `sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 1`
 * `sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 2`
 * Installez `poedit`
